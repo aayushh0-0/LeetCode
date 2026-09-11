@@ -49,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/aayushh0-0/LeetCode/tree/master/2427-number-of-common-factors) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aayushh0-0/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aayushh0-0/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aayushh0-0/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
