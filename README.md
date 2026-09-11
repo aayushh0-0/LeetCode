@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/aayushh0-0/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/aayushh0-0/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayushh0-0/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3870-count-commas-in-range](https://github.com/aayushh0-0/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aayushh0-0/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/aayushh0-0/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/aayushh0-0/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayushh0-0/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayushh0-0/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
