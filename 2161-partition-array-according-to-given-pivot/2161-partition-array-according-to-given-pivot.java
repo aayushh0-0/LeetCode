@@ -1,26 +1,22 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
-
-        ArrayList<Integer> l = new ArrayList<>();
-
-        for (int a : nums) {
-            if (a < pivot) {
-                l.add(a);
+        int[] ans = new int[nums.length];
+        int k = 0;
+        for (int x : nums) {
+            if (x < pivot) {
+                ans[k++] = x;
             }
         }
-
-        for (int a : nums) {
-            if (a == pivot) {
-                l.add(a);
+        for (int x : nums) {
+            if (x == pivot) {
+                ans[k++] = x;
             }
         }
-
-        for (int a : nums) {
-            if (a > pivot) {
-                l.add(a);
+        for (int x : nums) {
+            if (x > pivot) {
+                ans[k++] = x;
             }
         }
-
-        return l.stream().mapToInt(Integer::intValue).toArray();
+        return ans;
     }
 }
