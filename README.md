@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aayushh0-0/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/aayushh0-0/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/aayushh0-0/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Combinatorics
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/aayushh0-0/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayushh0-0/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
 |  |
