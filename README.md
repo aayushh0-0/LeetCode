@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayushh0-0/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushh0-0/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -78,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayushh0-0/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayushh0-0/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayushh0-0/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayushh0-0/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
