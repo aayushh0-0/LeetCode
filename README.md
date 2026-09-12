@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/aayushh0-0/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aayushh0-0/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayushh0-0/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/aayushh0-0/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aayushh0-0/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aayushh0-0/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
