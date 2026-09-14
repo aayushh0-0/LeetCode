@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/aayushh0-0/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/aayushh0-0/LeetCode/tree/master/1952-three-divisors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/aayushh0-0/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/aayushh0-0/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/aayushh0-0/LeetCode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aayushh0-0/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aayushh0-0/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
