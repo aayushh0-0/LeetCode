@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aayushh0-0/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1512-number-of-good-pairs](https://github.com/aayushh0-0/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/aayushh0-0/LeetCode/tree/master/1952-three-divisors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/aayushh0-0/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/aayushh0-0/LeetCode/tree/master/0835-image-overlap) |
+| [1512-number-of-good-pairs](https://github.com/aayushh0-0/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/aayushh0-0/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aayushh0-0/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aayushh0-0/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/aayushh0-0/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushh0-0/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aayushh0-0/LeetCode/tree/master/0836-rectangle-overlap) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/aayushh0-0/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
