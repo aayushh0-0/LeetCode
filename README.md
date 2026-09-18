@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/aayushh0-0/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/aayushh0-0/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushh0-0/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushh0-0/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushh0-0/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayushh0-0/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Data Stream
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/aayushh0-0/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/aayushh0-0/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushh0-0/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aayushh0-0/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/aayushh0-0/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/aayushh0-0/LeetCode/tree/master/3110-score-of-a-string) |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aayushh0-0/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushh0-0/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
