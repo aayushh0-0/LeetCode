@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/aayushh0-0/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/aayushh0-0/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/aayushh0-0/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2769-find-the-maximum-achievable-number](https://github.com/aayushh0-0/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayushh0-0/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aayushh0-0/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/aayushh0-0/LeetCode/tree/master/3870-count-commas-in-range) |
