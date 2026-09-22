@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayushh0-0/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aayushh0-0/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/aayushh0-0/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/aayushh0-0/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/aayushh0-0/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aayushh0-0/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/aayushh0-0/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aayushh0-0/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/aayushh0-0/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/aayushh0-0/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3701-compute-alternating-sum](https://github.com/aayushh0-0/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/aayushh0-0/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayushh0-0/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/aayushh0-0/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
