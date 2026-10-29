@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/aayushh0-0/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aayushh0-0/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/aayushh0-0/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aayushh0-0/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aayushh0-0/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3925-concatenate-array-with-reverse](https://github.com/aayushh0-0/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aayushh0-0/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/aayushh0-0/LeetCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aayushh0-0/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/aayushh0-0/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aayushh0-0/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aayushh0-0/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayushh0-0/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aayushh0-0/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aayushh0-0/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushh0-0/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aayushh0-0/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayushh0-0/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aayushh0-0/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aayushh0-0/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushh0-0/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aayushh0-0/LeetCode/tree/master/0226-invert-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aayushh0-0/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -294,15 +299,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aayushh0-0/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aayushh0-0/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aayushh0-0/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayushh0-0/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aayushh0-0/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aayushh0-0/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aayushh0-0/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
