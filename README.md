@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/aayushh0-0/LeetCode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/aayushh0-0/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/aayushh0-0/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/aayushh0-0/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/aayushh0-0/LeetCode/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aayushh0-0/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Matrix
 |  |
